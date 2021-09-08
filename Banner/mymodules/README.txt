@@ -1,0 +1,1 @@
+Personalized banner to start my scripts, it shows some personal data
